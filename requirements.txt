@@ -1,0 +1,10 @@
+accelerate
+torch
+torchvision
+diffusers==0.26.0
+numpy==1.23.5
+Pillow
+transformers
+opencv-python
+jax
+jaxlab
